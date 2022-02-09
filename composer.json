@@ -44,6 +44,7 @@
         "symfony/web-link": "5.4.*",
         "symfony/webapp-meta": "^1.0",
         "symfony/webpack-encore-bundle": "^1.12",
+        "symfony/workflow": "5.4.*",
         "symfony/yaml": "5.4.*",
         "symfonycorp/platformsh-meta": "^1.0",
         "twig/extra-bundle": "^2.12|^3.0",
